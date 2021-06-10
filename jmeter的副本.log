@@ -1,0 +1,24 @@
+2021-05-18 10:10:14,496 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2021-05-18 10:10:14,534 INFO o.a.j.JMeter: Loading user properties from: /usr/local/Cellar/jmeter/5.4.1/libexec/bin/user.properties
+2021-05-18 10:10:14,534 INFO o.a.j.JMeter: Loading system properties from: /usr/local/Cellar/jmeter/5.4.1/libexec/bin/system.properties
+2021-05-18 10:10:14,545 INFO o.a.j.JMeter: Copyright (c) 1998-2021 The Apache Software Foundation
+2021-05-18 10:10:14,545 INFO o.a.j.JMeter: Version 5.4.1
+2021-05-18 10:10:14,545 INFO o.a.j.JMeter: java.version=15.0.2
+2021-05-18 10:10:14,545 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2021-05-18 10:10:14,546 INFO o.a.j.JMeter: os.name=Mac OS X
+2021-05-18 10:10:14,546 INFO o.a.j.JMeter: os.arch=x86_64
+2021-05-18 10:10:14,546 INFO o.a.j.JMeter: os.version=11.1
+2021-05-18 10:10:14,546 INFO o.a.j.JMeter: file.encoding=UTF-8
+2021-05-18 10:10:14,546 INFO o.a.j.JMeter: java.awt.headless=null
+2021-05-18 10:10:14,546 INFO o.a.j.JMeter: Max memory     =1073741824
+2021-05-18 10:10:14,546 INFO o.a.j.JMeter: Available Processors =8
+2021-05-18 10:10:14,559 INFO o.a.j.JMeter: Default Locale=English (EN)
+2021-05-18 10:10:14,559 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2021-05-18 10:10:14,559 INFO o.a.j.JMeter: JMeterHome=/usr/local/Cellar/jmeter/5.4.1/libexec
+2021-05-18 10:10:14,560 INFO o.a.j.JMeter: user.dir  =/Users/shengxianwang
+2021-05-18 10:10:14,560 INFO o.a.j.JMeter: PWD       =/Users/shengxianwang
+2021-05-18 10:10:14,660 INFO o.a.j.JMeter: IP: 192.168.43.81 Name: ShengxiandeMBP FullName: shengxiandembp
+2021-05-18 10:10:15,119 INFO o.a.j.JMeter: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2021-05-18 10:10:16,814 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2021-05-18 10:10:18,086 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=mac_os_x-feb2389c27f8fedd9a70f2b8195f6a99-gui
+2021-05-18 10:10:22,066 INFO o.j.r.PluginManager: Plugins Status: [jpgc-plugins-manager=1.6, jmeter-core=5.4.1, jmeter-ftp=5.4.1, jmeter-http=5.4.1, jmeter-jdbc=5.4.1, jmeter-jms=5.4.1, jmeter-junit=5.4.1, jmeter-java=5.4.1, jmeter-ldap=5.4.1, jmeter-mail=5.4.1, jmeter-mongodb=5.4.1, jmeter-native=5.4.1, jmeter-tcp=5.4.1, jmeter-components=5.4.1]
